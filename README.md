@@ -32,4 +32,4 @@
 </div>
 
 
-![snake gif](https://github.com/GuilhermeBechelli/GuilhermeBechelli/blob/output/github-contribution-grid-snake.svg)
+
