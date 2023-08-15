@@ -27,6 +27,3 @@ Greetings, fellow developer! Welcome to my space ❤️
   </a>
 </div>
 </div>
-
-![Snake animation](https://github.com/GuilhermeBechelli/GuilhermeBechelli/blob/output/github-contribution-grid-snake.svg)
-
